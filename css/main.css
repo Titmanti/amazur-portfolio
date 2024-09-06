@@ -426,7 +426,7 @@ aside.hidden{
 @media screen and (max-width: 540px){
     main{
         .wrapper{
-            gap: 1vh 4vw;
+            gap: 20px;
             .container-post{
                 img{
                     width: 290px;
